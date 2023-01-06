@@ -1,3 +1,10 @@
+registry.k8s.io/kube-apiserver:v1.22.17
+registry.k8s.io/kube-controller-manager:v1.22.17
+registry.k8s.io/kube-scheduler:v1.22.17
+registry.k8s.io/kube-proxy:v1.22.17
+registry.k8s.io/pause:3.5
+registry.k8s.io/etcd:3.5.6-0
+registry.k8s.io/coredns/coredns:v1.8.4
 gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
 gcr.io/knative-releases/knative.dev/eventing/cmd/broker/filter@sha256:0e25aa1613a3a1779b3f7b7f863e651e5f37520a7f6808ccad2164cc2b6a9b12
 gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:cf579f88aa2a37c240e25bb886c1ef5404e326e12c7caf571e49308612243eee
